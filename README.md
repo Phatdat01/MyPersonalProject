@@ -27,5 +27,5 @@ sklearn,
 dlib,
 nes-py,
 
-if you have any problem,or you want a full source to train data,
+if you have any problem,or you want a full source of training data,
 please send to gmail phatdatlht2001@gmail.com
