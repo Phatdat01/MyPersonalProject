@@ -4,7 +4,8 @@ I only try recognizing my favorite anime characters
 #Link demo video:
 https://youtu.be/FnbVrZAUPN4
 
-there is only a few photos can be recognized and the accuracy may not be high.
+there is only a few photos can be recognized and the accuracy may be slow.
+
 You can check path: ./Tensorflow/workspace/images/train
 
 #if you wanna run this, you must download:
