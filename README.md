@@ -18,7 +18,7 @@ Cmake,
 
 Tensorflow ObjectDetect API
 
-example: https://github.com/tensorflow/models.git
+example for TF_API: https://github.com/tensorflow/models.git
 
 some libraries in python:
 matplotlib,
