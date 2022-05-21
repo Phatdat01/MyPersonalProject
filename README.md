@@ -6,7 +6,7 @@ https://youtu.be/FnbVrZAUPN4
 
 there is only a few photos can be recognized and the accuracy may be slow.
 
-which character that can recognize: songoku, naruto, luffy, ichigo, tsuna, vegito
+which characters that can recognize: songoku, naruto, luffy, ichigo, tsuna, vegito
 
 You can check path: ./Tensorflow/workspace/images/train
 
