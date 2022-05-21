@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eval</folder>
+	<filename>Naruto-1.jpg</filename>
+	<path>D:\Video\anime\Tensorflow\workspace\images\eval\Naruto-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Naruto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>11</ymin>
+			<xmax>186</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

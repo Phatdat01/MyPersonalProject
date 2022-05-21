@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eval</folder>
+	<filename>luffy-1.jpg</filename>
+	<path>D:\Video\anime\Tensorflow\workspace\images\eval\luffy-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>172</width>
+		<height>293</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Luffy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>70</ymin>
+			<xmax>139</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

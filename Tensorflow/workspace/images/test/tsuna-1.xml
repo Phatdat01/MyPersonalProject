@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eval</folder>
+	<filename>tsuna-1.jpg</filename>
+	<path>D:\Video\anime\Tensorflow\workspace\images\eval\tsuna-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>202</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tsuna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>13</ymin>
+			<xmax>167</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>ichigo-21.jpg</filename>
+	<path>D:\Video\anime\Tensorflow\workspace\images\train\ichigo-21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>293</width>
+		<height>172</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ichigo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>16</ymin>
+			<xmax>240</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

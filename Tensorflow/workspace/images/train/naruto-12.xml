@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>naruto-12.jpg</filename>
+	<path>D:\Video\anime\Tensorflow\workspace\images\train\naruto-12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Naruto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>22</ymin>
+			<xmax>211</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

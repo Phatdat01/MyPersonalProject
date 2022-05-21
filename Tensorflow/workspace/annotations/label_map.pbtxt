@@ -1,0 +1,24 @@
+item { 
+	name:'Songoku'
+	id:1
+}
+item { 
+	name:'Vegito'
+	id:2
+}
+item { 
+	name:'Naruto'
+	id:3
+}
+item { 
+	name:'Luffy'
+	id:4
+}
+item { 
+	name:'Ichigo'
+	id:5
+}
+item { 
+	name:'Tsuna'
+	id:6
+}

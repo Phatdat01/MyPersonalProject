@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>luffy-26.jpg</filename>
+	<path>D:\Video\anime\Tensorflow\workspace\images\train\luffy-26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Luffy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>7</ymin>
+			<xmax>182</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>

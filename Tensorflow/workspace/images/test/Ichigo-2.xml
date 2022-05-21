@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eval</folder>
+	<filename>Ichigo-2.jpg</filename>
+	<path>D:\Video\anime\Tensorflow\workspace\images\eval\Ichigo-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ichigo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>8</ymin>
+			<xmax>164</xmax>
+			<ymax>59</ymax>
+		</bndbox>
+	</object>
+</annotation>

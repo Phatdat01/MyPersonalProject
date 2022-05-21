@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>songoku-9.jpg</filename>
+	<path>D:\Video\anime\Tensorflow\workspace\images\train\songoku-9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Songoku</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>2</ymin>
+			<xmax>177</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>
