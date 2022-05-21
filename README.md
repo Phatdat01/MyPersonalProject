@@ -17,7 +17,7 @@ Tensorflow ObjectDetect API
 
 example: https://github.com/tensorflow/models.git
 
-some library in python:
+some libraries in python:
 matplotlib,
 tensorflow 2.4.1,
 keras 2.4.3,
