@@ -21,9 +21,9 @@ session = tf.compat.v1.Session(config=config)
 tf.compat.v1.keras.backend.set_session(session)
 #print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
 
-CONFIG_PATH = 'Tensorflow/workspace/models_TTD/my_ssd_mobnet/pipeline.config'
+CONFIG_PATH = 'Tensorflow/workspace/models/my_ssd_mobnet/pipeline.config'
 
-CHECKPOINT_PATH = 'Tensorflow/workspace/models_TTD/my_ssd_mobnet/'
+CHECKPOINT_PATH = 'Tensorflow/workspace/models/my_ssd_mobnet/'
 
 ANNOTATION_PATH = 'Tensorflow/workspace/annotations'
 
