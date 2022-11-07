@@ -1,0 +1,85 @@
+.float-ADS {
+    position: fixed;
+    bottom: 0;
+    z-index: 9000;
+    margin: 40px 0;
+    top: 0;
+    display: inline-block;
+    max-width: 180px;
+    width: 100%;
+    background: transparent;
+}
+
+p.adscb {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+#float_content_right,
+#float_content_left {
+    height: 100%!important;
+    width: 100%;
+    position: relative;
+}
+
+#hide_float_right {
+    text-align: right;
+    font-size: 11px;
+}
+
+#hide_float_left {
+    text-align: left;
+    font-size: 11px;
+}
+
+#hide_float_right a,
+#hide_float_left a {
+    background: red;
+    padding: 2px 4px;
+    color: #FFF;
+    position: absolute;
+    display: flex;
+    font-size: 20px;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    text-align: center;
+    z-index: 9;
+    top: -8px;
+}
+
+#hide_float_left a {
+    right: -6px;
+}
+
+#hide_float_right a {
+    left: -6px
+}
+
+@media (max-width: 780px) {
+    .float-ADS {
+        display: none
+    }
+}
+
+element.style {
+    width: 704px;
+}
+
+.row-widget.stButton {
+    display: flex;
+    justify-content: center;
+}
+
+.css-1kyxreq.etr89bj2 {
+    display: flex;
+    justify-content: center;
+}
+
+.main.css-k1vhr4.egzxvld3 {
+    background-image: url("https://images4.alphacoders.com/973/thumb-1920-973967.jpg");
+}

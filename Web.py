@@ -92,7 +92,7 @@ st.header("This is Anime Recognition Web")
 file=st.file_uploader("Choose file",type=['jpg', 'png', 'jpeg'])
 img_placeholder = st.empty()
 if file is not None:
-    button=st.button('Recognize fruit')
+    button=st.button('Recognize')
     if button:
         file=Recognition(file)
     image=st.image(file)
